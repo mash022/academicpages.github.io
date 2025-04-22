@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Mansi Sharma"
 title_separator          : "-"
 name                     : &name "Mansi Sharma"
-description              : &description "personal description"
+description              : &description "Mansi Sharma is a Researcher and Doctoral Student in the Cognitive Assistants Department at  German Research Center for Artificial Intelligence, DFKI and Saarland University, where she researches human intent recognition through the integration of physiological signals such as EEG, eye-tracking, and gestures. Her work focuses on enabling intelligent systems to better understand and adapt to human behavior in contexts like visual search and microsurgical tasks, with applications in cognitive assistance, healthcare, human-robot collaboration, and assistive technologies. "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mash022.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "images/pic.jpg"
   name             : "Mansi Sharma"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # URL
   location         : "Berlin, Germany"
-  employer         : "Red Brick University"
+  employer         : # URL
   uri              : # URL
   email            : "mansi.sharma@dfki.de" 
 
