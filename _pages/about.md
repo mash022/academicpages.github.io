@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I am Mansi.
+I am a Doctoral Researcher at [German Research Center for Artificial Intelligence, DFKI](https://www.dfki.de/web) supervised by [Prof. Antonio Krüger](https://www.dfki.de/~krueger/). My research focuses on recognizing human intent by integrating EEG, eye-tracking, and gestures to help intelligent systems better understand and adapt to human behavior in tasks like visual search and microsurgery, with applications in cognitive assistance, healthcare, and human-robot interaction.
 
 A data-driven personal website
 ======
